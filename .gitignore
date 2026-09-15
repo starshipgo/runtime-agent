@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# Tooling and local settings
+.streamlit/secrets.toml
+.DS_Store
+.ipynb_checkpoints/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
